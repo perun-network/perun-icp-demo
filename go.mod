@@ -5,6 +5,7 @@ go 1.19
 require (
 	github.com/aviate-labs/agent-go v0.3.0-alpha.1
 	github.com/pkg/errors v0.9.1
+	github.com/stretchr/testify v1.8.2
 	perun.network/go-perun v0.10.6
 	perun.network/perun-demo-tui v0.0.0-20230321094013-3e474bfabc8f
 	perun.network/perun-icp-backend v0.0.0-20231020105730-688883963e2a
@@ -27,7 +28,6 @@ require (
 	github.com/rivo/tview v0.0.0-20230208211350-7dfff1ce7854 // indirect
 	github.com/rivo/uniseg v0.4.2 // indirect
 	github.com/sirupsen/logrus v1.8.1 // indirect
-	github.com/stretchr/testify v1.8.2 // indirect
 	github.com/x448/float16 v0.8.4 // indirect
 	golang.org/x/crypto v0.7.0 // indirect
 	golang.org/x/exp v0.0.0-20230515195305-f3d0a9c9a5cc // indirect
