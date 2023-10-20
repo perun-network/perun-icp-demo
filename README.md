@@ -43,3 +43,11 @@ You will be greeted with a demo window that is split into two panes. You can pla
 * `r`: Go back to parent page
 * `q`: Close the demo
 
+
+## Exiting the demo
+
+You can exit the demo by pressing `q` at any time. Afterwards, you need to stop the IC replica by running
+
+```
+  $ ./stopdfx.sh
+```
