@@ -51,3 +51,7 @@ You can exit the demo by pressing `q` at any time. Afterwards, you need to stop 
 ```
   $ ./stopdfx.sh
 ```
+
+## Copyright
+
+Copyright 2023 PolyCrypt GmbH. Use of the source code is governed by the Apache 2.0 license that can be found in the [LICENSE file](LICENSE).

@@ -48,7 +48,7 @@ func (c PaymentChannel) SendPayment(amount int64) {
 		state.Allocation.TransferBalance(actor, peer, c.currency, icp)
 	})
 	if err != nil {
-		panic(err) // We panic on error to keep the code simple.
+		panic(err)
 	}
 }
 
